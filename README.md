@@ -1,4 +1,5 @@
 # Process Simulator
+CPU scheduling algorithm (FCFS, SJF, SRTF, Priority-based Scheduling , Preemptive Priority-based Scheduling, Round Robin) and deadlock avoidance algorithm (Banker’s Algorithm) are implemented in this project.
 ## List of Commands
 The following commands are working in my project.
 | Command | Remarks |
