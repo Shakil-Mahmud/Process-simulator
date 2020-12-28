@@ -2,6 +2,7 @@
 ## List of Commands
 The following commands are working in my project.
 | Command | Remarks |
+--- | ---
 | create-process | Create a new process. |
 | ready-process	| Transfer processes from job queue to ready queue and device queue. Also call the function bankers_algorithm() to check system is safe or not if there is any process in device queue. | 
 | show-job-queue	| Show all process in job queue. |
