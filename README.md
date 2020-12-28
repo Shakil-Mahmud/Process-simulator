@@ -20,18 +20,18 @@ NB: As many functions depending on the data stored by the sysConfig(), it will b
 I have used the data structure, Vector and also Queue in some cases, as given in the sample project.
 ## CPU Scheduling Algorithms
 The following CPU scheduling algorithms are implemented.
-..*	FCFS
-..*	SJF
-..*	SRTF
-..*	Priority-based Scheduling 
-..*	Preemptive Priority-based Scheduling
-..*	Round Robin
+*	FCFS
+*	SJF
+*	SRTF
+*	Priority-based Scheduling 
+*	Preemptive Priority-based Scheduling
+*	Round Robin
 
 ## Banker’s Algorithm for Deadlock Avoidance
 This algorithm is implemented in my project. After executing this algorithm –
-..*	If the system is safe, safe sequence will be printed.
-..*	If the system is unsafe, one process will be preempted and banker’s algorithm will be called, if the system is still unsafe, another process will be preempted and again the banker’s algorithm will be called. This process will continue until the system is in the safe state.
+*	If the system is safe, safe sequence will be printed.
+*	If the system is unsafe, one process will be preempted and banker’s algorithm will be called, if the system is still unsafe, another process will be preempted and again the banker’s algorithm will be called. This process will continue until the system is in the safe state.
 
 ## Memory Management
-..*	Process will be sent to ready queue according to available frame number in memory.
-..*	Users can view which frame is allocated to which process and which frames are empty.
+*	Process will be sent to ready queue according to available frame number in memory.
+*	Users can view which frame is allocated to which process and which frames are empty.
